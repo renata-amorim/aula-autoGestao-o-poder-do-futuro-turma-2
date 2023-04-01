@@ -6,7 +6,7 @@
 
 ## Template
 
-![Template] (./assets/tamplete.jpg)
+![tamplete](https://user-images.githubusercontent.com/105938904/229299924-e12a47cc-804f-43a8-990c-38831327fb51.jpg)
 
 ---
 
